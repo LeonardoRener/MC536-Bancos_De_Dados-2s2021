@@ -15,7 +15,7 @@ Estrutura de pastas:
 
 ## Tarefa 1 sobre APIs de acesso
 
-[Laboratório 1](lab01/lab01-api.ipynb)
+[Laboratório 1](/lab01-api.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
 
