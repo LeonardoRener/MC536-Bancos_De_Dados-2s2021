@@ -13,4 +13,4 @@ Estrutura de pastas:
 
 ## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
 
-[Laboratório 2](lab02/notebook/lab2_logic_model_dbpedia.ipynb)
+[Laboratório 2](notebook/lab2_logic_model_dbpedia.ipynb)
