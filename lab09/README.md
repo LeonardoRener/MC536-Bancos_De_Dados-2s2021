@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab09 - Grafo De Conhecimento
+# Lab09 - Grafo De Conhecimento
 
 Estrutura de pastas:
 
@@ -17,9 +17,9 @@ Estrutura de pastas:
 
 ## Perguntas de Pesquisa/análise
 
-> * Pergunta 1
-> Resposta 1
-> * Pergunta 2
-> Resposta 2
-> * Pergunta 3
-> Resposta 3
+> * Qual o indice com maior valorização no ano de 2015?
+>
+> * Qual o PIB desse pais no mesmo ano? ouve crescimento em relação ao ano anterior?
+> 
+> * Qual o nome de todos os indeces economicos mundiais que obtiverem crescimento em 2020?
+>
